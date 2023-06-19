@@ -95,7 +95,7 @@ html {
         height: 40px;
         border: 2px solid #FF3E79;
         border-radius: 50%;
-        background-image: url("/image/dropdown.svg");
+        background-image: url("/1.5/image/dropdown.svg");
         background-repeat: no-repeat;
         background-position: center center;
     }
@@ -165,7 +165,7 @@ html {
         height: 40px;
         border: 2px solid #FF3E79;
         border-radius: 50%;
-        background-image: url("/image/dropdown.svg");
+        background-image: url("/1.5/image/dropdown.svg");
         background-repeat: no-repeat;
         background-position: center center;
     }
@@ -190,7 +190,7 @@ html {
         content: "";
         width:24px;
         height: 24px;
-        background-image: url("/image/show-more.svg");
+        background-image: url("/1.5/image/show-more.svg");
         background-position: 0 center;
         background-repeat: no-repeat;
     }
@@ -199,7 +199,7 @@ html {
         content: "";
         width:24px;
         height: 24px;
-        background-image: url("/image/close.svg");
+        background-image: url("/1.5/image/close.svg");
         background-position: 0 center;
         background-repeat: no-repeat;
     }
@@ -254,7 +254,7 @@ body{
     height: 40px;
     border: 2px solid #FF3E79;
     border-radius: 50%;
-    background-image: url("/image/dropdown.svg");
+    background-image: url("/1.5/image/dropdown.svg");
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -279,7 +279,7 @@ body{
     content: "";
     width:24px;
     height: 24px;
-    background-image: url("/image/show-more.svg");
+    background-image: url("/1.5/image/show-more.svg");
     background-position: 0 center;
     background-repeat: no-repeat;
 }
@@ -288,7 +288,7 @@ body{
     content: "";
     width:24px;
     height: 24px;
-    background-image: url("/image/close.svg");
+    background-image: url("/1.5/image/close.svg");
     background-position: 0 center;
     background-repeat: no-repeat;
 }
