@@ -158,12 +158,19 @@ html {
         width: 224px;
         height: 72px;
         margin-right: 24px;
-        background: #FFFFFF;
-        border: 1px solid #EAEAEA;
-        border-radius: 6px;
+        background: #FFFFFF; 
         margin-bottom: 16px;
+        list-style: none;
+    }
+    .brends__item-button{
         display: flex;
         align-items: center;
+        background: #FFFFFF;
+        width: 224px;
+        height: 72px;
+        border: 1px solid #EAEAEA;
+        border-radius: 6px;
+        margin: 0;
         padding: 16px;
     }
     .brends__image{
@@ -252,16 +259,23 @@ body{
     overflow: hidden;
     height: 200px;
 }
-.brends__item{
-    width: 240px;
+ .brends__item{
+    width: 224px;
     height: 72px;
-    margin-right: 32px;
-    background: #FFFFFF;
-    border: 1px solid #EAEAEA;
-    border-radius: 6px;
+    margin-right: 24px;
+    background: #FFFFFF; 
     margin-bottom: 16px;
+    list-style: none;
+}
+.brends__item-button{
     display: flex;
     align-items: center;
+    background: #FFFFFF;
+    width: 224px;
+    height: 72px;
+    border: 1px solid #EAEAEA;
+    border-radius: 6px;
+    margin: 0;
     padding: 16px;
 }
 
